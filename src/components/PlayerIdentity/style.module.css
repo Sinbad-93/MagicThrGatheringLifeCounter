@@ -21,3 +21,10 @@ background-color: black;
 .inp {
     width: 140px;
 }
+
+@media screen and (min-width: 800px) {
+    .colorContainer {
+        height: 40px;
+      
+    }
+}
