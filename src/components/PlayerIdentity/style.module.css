@@ -1,0 +1,23 @@
+.playerIdentity{
+width: 150px;
+background-color: black;
+}
+
+.colorContainer{
+    display: flex;
+    max-width: 150px;
+    height: 20px;
+    overflow: scroll;
+}
+
+.playerName{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+
+.inp {
+    width: 140px;
+}

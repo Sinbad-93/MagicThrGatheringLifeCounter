@@ -1,0 +1,9 @@
+.life_container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    width: 90%;
+    height: 40%;
+    border: solid 3px gray;
+}
