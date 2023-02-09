@@ -1,3 +1,5 @@
+REACT.js Web application for count life & personnalize player identity for the game Magic The Gathering
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
